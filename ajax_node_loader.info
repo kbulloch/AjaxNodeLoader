@@ -1,5 +1,5 @@
 name = Ajax node loader
 description = Display Nodes with Ajax.
-package = Custom Modules
+package = Aardvark Modules
 core = 7.x
 files[] = ajax_node_loader.module
