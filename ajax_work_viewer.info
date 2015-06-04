@@ -1,0 +1,5 @@
+name = Ajax work viewer
+description = Display Nodes with Ajax.
+package = Custom Modules
+core = 7.x
+files[] = ajax_work_viewer.module
